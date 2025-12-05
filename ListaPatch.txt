@@ -10,7 +10,7 @@ ScaleForm.dll 57dd9f3c 1924608
 Shade32.GLIB 5f18967a 3772928
 vorbisfile.dll b3544474 999424
 wzAudio.dll a0747522 212992
-Data/av-code45.pak 3a1400f9 97912
+Data/av-code45.pak ef322f6f 97904
 Data/Gate.bmd 520c3952 14336
 Data/Custom/Monster/Alieen.bmd d591c441 526683
 Data/Custom/Monster/CavaleiroGreen.bmd 4a48781b 385029
@@ -1698,6 +1698,7 @@ Data/Item/ringnt2025.bmd cbb732d7 46204
 Data/Item/scepternt2025.bmd a11ea75c 378260
 Data/Item/shieldnt2025.bmd 49580d04 182648
 Data/Item/staffnt2025.bmd dea95978 306544
+Data/Item/swordnt2025.bmd 615ad5f7 312392
 Data/Item/wingnt2025.bmd 6f17b603 723514
 Data/Item/Texture/BxAbaddonDcMaker.ozj 43c5da20 54232
 Data/Item/Texture/BxHolly.ozj 94a9b9be 98135
@@ -1735,7 +1736,7 @@ Data/Local/Connect.msil d26c1681 480
 Data/Local/ItemAddOption.bmd dc927a4c 131072
 Data/Local/ItemTRSData.bmd 1ab16ea8 123304
 Data/Local/MasterSkillTreeData.bmd 96c7e88f 12292
-Data/Local/mix.bmd 41f12876 80088
+Data/Local/mix.bmd 1a976612 80088
 Data/Local/Chs/Item.bmd a99029b2 300948
 Data/Local/Chs/ItemTooltip.bmd 4cbff232 1015812
 Data/Local/Chs/ItemTooltipText.bmd db27eec9 133124
