@@ -1741,7 +1741,7 @@ Data/Local/Connect.msil a6ac7d92 480
 Data/Local/ItemAddOption.bmd dc927a4c 131072
 Data/Local/ItemTRSData.bmd 99b2e993 123304
 Data/Local/MasterSkillTreeData.bmd 96c7e88f 12292
-Data/Local/mix.bmd 41f12876 80088
+Data/Local/mix.bmd 1a976612 80088
 Data/Local/Chs/Item.bmd 1e42f309 302916
 Data/Local/Chs/ItemTooltip.bmd 68ce45cf 1015812
 Data/Local/Chs/ItemTooltipText.bmd dd907cec 133124
