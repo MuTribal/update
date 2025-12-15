@@ -1738,7 +1738,7 @@ Data/Item/Texture/RIV_SETRW1.ozj 99c2c119 126527
 Data/Item/Texture/RIV_WINGNORDIC_PEN.ozj f69e0f30 42876
 Data/Item/Texture/zyron2.OZJ 09e2907a 30224
 Data/Local/Connect.msil a6ac7d92 480
-Data/Local/ItemAddOption.bmd dc927a4c 131072
+Data/Local/ItemAddOption.bmd 3a18094e 131072
 Data/Local/ItemTRSData.bmd 99b2e993 123304
 Data/Local/MasterSkillTreeData.bmd 96c7e88f 12292
 Data/Local/mix.bmd 1a976612 80088
