@@ -5,8 +5,8 @@ Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg 9d1a74ea 16600
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ 6c67be6d 16624
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt 6abc8050 144
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 3556a188 936
-Data/InGameShopScript/512.2011.006/IBSPackage.txt 27f03a11 111504
-Data/InGameShopScript/512.2011.006/IBSProduct.txt 90fb22ea 47318
+Data/InGameShopScript/512.2011.006/IBSPackage.txt ed9521ca 110623
+Data/InGameShopScript/512.2011.006/IBSProduct.txt 19cf27b0 47061
 Data/Interface/Thumbs.db 772a97c5 5120
 Data/Interface/HUD/NaviMap/Navimap01.ozt 2301bf1c 1048598
 Data/Interface/HUD/NaviMap/Navimap02.ozt 21c5b222 1048598
