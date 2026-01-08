@@ -1,5 +1,5 @@
 config.ini ce311c43 558
-Data/av-code45.pak 27bdc485 62788
+Data/av-code45.pak 5da9420a 63700
 Data/Gate.bmd 19e7f9e6 14336
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg 9d1a74ea 16600
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ 6c67be6d 16624
@@ -35,7 +35,7 @@ Data/Interface/HUD/NaviMap/Navimap80.ozt 27b4b877 1048598
 Data/Interface/HUD/NaviMap/Navimap81.ozt 551f3efb 1048598
 Data/Interface/HUD/NaviMap/Navimap82.ozt 677fbb32 1048598
 Data/Interface/HUD/NaviMap/Navimap92.ozt 87bf58fc 1048598
-Data/Local/Connect.msil a6ac7d92 480
+Data/Local/Connect.msil d26c1681 480
 Data/Local/ItemTRSData.bmd ac949f20 122536
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
 Data/Local/ServerList.bmd 0bf96bd0 165
