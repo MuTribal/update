@@ -35,6 +35,8 @@ Data/Interface/HUD/NaviMap/Navimap80.ozt 27b4b877 1048598
 Data/Interface/HUD/NaviMap/Navimap81.ozt 551f3efb 1048598
 Data/Interface/HUD/NaviMap/Navimap82.ozt 677fbb32 1048598
 Data/Interface/HUD/NaviMap/Navimap92.ozt 87bf58fc 1048598
+Data/Item/scepter0126.bmd 9e5a67c6 84550
+Data/Item/Texture/Scpt0120_RHMakers.ozj 8182d563 53406
 Data/Local/Connect.msil d26c1681 480
 Data/Local/ItemTRSData.bmd ac949f20 122536
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
