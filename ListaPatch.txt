@@ -5,8 +5,8 @@ Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg 9d1a74ea 16600
 Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ 6c67be6d 16624
 Data/InGameShopBanner/583.2010.005/IBSBanner.txt 6abc8050 144
 Data/InGameShopScript/512.2011.006/IBSCategory.txt 3556a188 936
-Data/InGameShopScript/512.2011.006/IBSPackage.txt ed9521ca 110623
-Data/InGameShopScript/512.2011.006/IBSProduct.txt 19cf27b0 47061
+Data/InGameShopScript/512.2011.006/IBSPackage.txt 1a49419a 111735
+Data/InGameShopScript/512.2011.006/IBSProduct.txt e7a3fb3b 47299
 Data/Interface/Thumbs.db 772a97c5 5120
 Data/Interface/HUD/NaviMap/Navimap01.ozt 2301bf1c 1048598
 Data/Interface/HUD/NaviMap/Navimap02.ozt 21c5b222 1048598
@@ -35,11 +35,16 @@ Data/Interface/HUD/NaviMap/Navimap80.ozt 27b4b877 1048598
 Data/Interface/HUD/NaviMap/Navimap81.ozt 551f3efb 1048598
 Data/Interface/HUD/NaviMap/Navimap82.ozt 677fbb32 1048598
 Data/Interface/HUD/NaviMap/Navimap92.ozt 87bf58fc 1048598
+Data/Item/box02.bmd 1a7c5db4 289695
 Data/Item/scepter0126.bmd 9e5a67c6 84550
 Data/Item/shield0126.bmd 2a23c628 26494
+Data/Item/Texture/BxPDMK_0209.ozj 7d9309fb 95281
+Data/Item/Texture/BxPDMK_0209VD.ozj 3491674e 292507
 Data/Item/Texture/Scpt0120_RHMakers.ozj 8182d563 53406
 Data/Item/Texture/SD_0905PDMK.ozj 30cc4da0 108577
 Data/Local/Connect.msil a6ac7d92 480
+Data/Local/ItemAddOption.bmd 6ebbd1fb 131072
+Data/Local/ItemSetType.bmd b8556e7b 32772
 Data/Local/ItemTRSData.bmd 07abc32c 122536
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
 Data/Local/ServerList.bmd 0bf96bd0 165
