@@ -43,7 +43,7 @@ Data/Item/Texture/BxPDMK_0209VD.ozj 3491674e 292507
 Data/Item/Texture/Scpt0120_RHMakers.ozj 8182d563 53406
 Data/Item/Texture/SD_0905PDMK.ozj 30cc4da0 108577
 Data/Local/Connect.msil a6ac7d92 480
-Data/Local/ItemAddOption.bmd 1f167d17 131072
+Data/Local/ItemAddOption.bmd f2008727 131072
 Data/Local/ItemSetType.bmd b8556e7b 32772
 Data/Local/ItemTRSData.bmd 50f3b408 122536
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
