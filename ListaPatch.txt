@@ -1,3 +1,12 @@
 Main.exe 42f8ccea 7484984
 Data/av-code45.pak 92e9c17b 63892
 Data/Local/Connect.msil a6ac7d92 480
+Data/Local/ItemAddOption.bmd f2008727 131072
+Data/Local/ItemSetType.bmd b8556e7b 32772
+Data/Local/ItemTRSData.bmd 50f3b408 122536
+Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
+Data/Local/ServerList.bmd 0bf96bd0 165
+Data/Local/Chs/Item.bmd 62923321 185984
+Data/Local/Eng/Item.bmd 62923321 185984
+Data/Local/Por/Item.bmd 62923321 185984
+Data/Local/Spn/Item.bmd 62923321 185984
