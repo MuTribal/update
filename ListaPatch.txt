@@ -1,5 +1,7 @@
 Main.exe 42f8ccea 7484984
-Data/av-code45.pak 0cac67a5 64252
+Data/av-code45.pak 20315dc5 64492
+Data/Custom/Monster/Brokais.ozj 1d9e3b23 170105
+Data/Custom/Monster/EvilDemon.bmd 078f2d22 2246927
 Data/Interface/HUD/MU-logo.OZT 98e480c8 528808
 Data/Local/Connect.msil a6ac7d92 480
 Data/Local/credit.bmd 4f69c29d 13200
@@ -31,7 +33,7 @@ Data/Local/Chs/GlobalText.bmd c87aa212 1414
 Data/Local/Chs/Item.bmd d1517071 185984
 Data/Local/Chs/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Chs/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Chs/ItemTooltip.bmd 03b61424 1015812
+Data/Local/Chs/ItemTooltip.bmd ac8b2807 1015812
 Data/Local/Chs/ItemTooltipText.bmd dd907cec 133124
 Data/Local/Chs/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Chs/JewelOfHarmonyOption.bmd b3278332 5400
@@ -52,7 +54,7 @@ Data/Local/Eng/GlobalText.bmd c87aa212 1414
 Data/Local/Eng/Item.bmd d1517071 185984
 Data/Local/Eng/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Eng/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Eng/ItemTooltip.bmd 03b61424 1015812
+Data/Local/Eng/ItemTooltip.bmd ac8b2807 1015812
 Data/Local/Eng/ItemTooltipText.bmd dd907cec 133124
 Data/Local/Eng/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Eng/JewelOfHarmonyOption.bmd b3278332 5400
@@ -73,7 +75,7 @@ Data/Local/Por/GlobalText.bmd c87aa212 1414
 Data/Local/Por/Item.bmd d1517071 185984
 Data/Local/Por/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Por/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Por/ItemTooltip.bmd 03b61424 1015812
+Data/Local/Por/ItemTooltip.bmd ac8b2807 1015812
 Data/Local/Por/ItemTooltipText.bmd dd907cec 133124
 Data/Local/Por/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Por/JewelOfHarmonyOption.bmd b3278332 5400
@@ -94,7 +96,7 @@ Data/Local/Spn/GlobalText.bmd c87aa212 1414
 Data/Local/Spn/Item.bmd d1517071 185984
 Data/Local/Spn/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Spn/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Spn/ItemTooltip.bmd 03b61424 1015812
+Data/Local/Spn/ItemTooltip.bmd ac8b2807 1015812
 Data/Local/Spn/ItemTooltipText.bmd dd907cec 133124
 Data/Local/Spn/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Spn/JewelOfHarmonyOption.bmd b3278332 5400
