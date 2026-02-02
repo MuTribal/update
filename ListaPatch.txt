@@ -43,7 +43,7 @@ Data/Local/GameGuard.csr a7cd6d80 6074
 Data/Local/GlobalText.bmd c87aa212 1414
 Data/Local/ItemAddOption.bmd 49ddbc5c 131072
 Data/Local/ItemSetType.bmd b8556e7b 32772
-Data/Local/ItemTRSData.bmd 507f3d9f 122632
+Data/Local/ItemTRSData.bmd 8735967c 122632
 Data/Local/ItemTRSData.xml cf7ef8d9 399107
 Data/Local/Main.env d84e2c2f 178
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
@@ -65,7 +65,7 @@ Data/Local/Chs/GlobalText.bmd c87aa212 1414
 Data/Local/Chs/Item.bmd 67f61705 188444
 Data/Local/Chs/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Chs/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Chs/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Chs/ItemTooltip.bmd cdd9d317 1015812
 Data/Local/Chs/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Chs/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Chs/JewelOfHarmonyOption.bmd b3278332 5400
@@ -86,7 +86,7 @@ Data/Local/Eng/GlobalText.bmd c87aa212 1414
 Data/Local/Eng/Item.bmd 67f61705 188444
 Data/Local/Eng/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Eng/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Eng/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Eng/ItemTooltip.bmd cdd9d317 1015812
 Data/Local/Eng/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Eng/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Eng/JewelOfHarmonyOption.bmd b3278332 5400
@@ -107,7 +107,7 @@ Data/Local/Por/GlobalText.bmd c87aa212 1414
 Data/Local/Por/Item.bmd 67f61705 188444
 Data/Local/Por/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Por/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Por/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Por/ItemTooltip.bmd cdd9d317 1015812
 Data/Local/Por/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Por/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Por/JewelOfHarmonyOption.bmd b3278332 5400
@@ -128,7 +128,7 @@ Data/Local/Spn/GlobalText.bmd c87aa212 1414
 Data/Local/Spn/Item.bmd 67f61705 188444
 Data/Local/Spn/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Spn/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Spn/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Spn/ItemTooltip.bmd cdd9d317 1015812
 Data/Local/Spn/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Spn/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Spn/JewelOfHarmonyOption.bmd b3278332 5400
