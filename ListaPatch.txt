@@ -65,8 +65,8 @@ Data/Local/Chs/GlobalText.bmd c87aa212 1414
 Data/Local/Chs/Item.bmd 83cf8a89 188280
 Data/Local/Chs/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Chs/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Chs/ItemTooltip.bmd 26855c16 1015812
-Data/Local/Chs/ItemTooltipText.bmd dd907cec 133124
+Data/Local/Chs/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Chs/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Chs/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Chs/JewelOfHarmonyOption.bmd b3278332 5400
 Data/Local/Chs/JewelOfHarmonySmelt.bmd f63a7a5b 557056
@@ -86,8 +86,8 @@ Data/Local/Eng/GlobalText.bmd c87aa212 1414
 Data/Local/Eng/Item.bmd 83cf8a89 188280
 Data/Local/Eng/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Eng/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Eng/ItemTooltip.bmd 26855c16 1015812
-Data/Local/Eng/ItemTooltipText.bmd dd907cec 133124
+Data/Local/Eng/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Eng/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Eng/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Eng/JewelOfHarmonyOption.bmd b3278332 5400
 Data/Local/Eng/JewelOfHarmonySmelt.bmd f63a7a5b 557056
@@ -107,8 +107,8 @@ Data/Local/Por/GlobalText.bmd c87aa212 1414
 Data/Local/Por/Item.bmd 83cf8a89 188280
 Data/Local/Por/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Por/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Por/ItemTooltip.bmd 26855c16 1015812
-Data/Local/Por/ItemTooltipText.bmd dd907cec 133124
+Data/Local/Por/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Por/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Por/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Por/JewelOfHarmonyOption.bmd b3278332 5400
 Data/Local/Por/JewelOfHarmonySmelt.bmd f63a7a5b 557056
@@ -128,8 +128,8 @@ Data/Local/Spn/GlobalText.bmd c87aa212 1414
 Data/Local/Spn/Item.bmd 83cf8a89 188280
 Data/Local/Spn/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Spn/ItemSetOption.bmd 06ac596d 30212
-Data/Local/Spn/ItemTooltip.bmd 26855c16 1015812
-Data/Local/Spn/ItemTooltipText.bmd dd907cec 133124
+Data/Local/Spn/ItemTooltip.bmd 51fb7ffa 1015812
+Data/Local/Spn/ItemTooltipText.bmd f46d5610 133124
 Data/Local/Spn/ItemTooltipText1.bmd 35e95d3f 532484
 Data/Local/Spn/JewelOfHarmonyOption.bmd b3278332 5400
 Data/Local/Spn/JewelOfHarmonySmelt.bmd f63a7a5b 557056
