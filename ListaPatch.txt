@@ -62,7 +62,7 @@ Data/Local/webzenlogo.ozj 3dedd813 51388
 Data/Local/Chs/BuffEffect.bmd dc13390a 24972
 Data/Local/Chs/Dialog.bmd 2393c2df 204800
 Data/Local/Chs/GlobalText.bmd c87aa212 1414
-Data/Local/Chs/Item.bmd 67f61705 188444
+Data/Local/Chs/Item.bmd a7962785 188444
 Data/Local/Chs/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Chs/ItemSetOption.bmd 06ac596d 30212
 Data/Local/Chs/ItemTooltip.bmd cdd9d317 1015812
@@ -83,7 +83,7 @@ Data/Local/Chs/Text.bmd 4efe33ea 130991
 Data/Local/Eng/BuffEffect.bmd dc13390a 24972
 Data/Local/Eng/Dialog.bmd 2393c2df 204800
 Data/Local/Eng/GlobalText.bmd c87aa212 1414
-Data/Local/Eng/Item.bmd 67f61705 188444
+Data/Local/Eng/Item.bmd a7962785 188444
 Data/Local/Eng/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Eng/ItemSetOption.bmd 06ac596d 30212
 Data/Local/Eng/ItemTooltip.bmd cdd9d317 1015812
@@ -104,7 +104,7 @@ Data/Local/Eng/Text.bmd 4efe33ea 130991
 Data/Local/Por/BuffEffect.bmd dc13390a 24972
 Data/Local/Por/Dialog.bmd 2393c2df 204800
 Data/Local/Por/GlobalText.bmd c87aa212 1414
-Data/Local/Por/Item.bmd 67f61705 188444
+Data/Local/Por/Item.bmd a7962785 188444
 Data/Local/Por/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Por/ItemSetOption.bmd 06ac596d 30212
 Data/Local/Por/ItemTooltip.bmd cdd9d317 1015812
@@ -125,7 +125,7 @@ Data/Local/Por/Text.bmd 4efe33ea 130991
 Data/Local/Spn/BuffEffect.bmd dc13390a 24972
 Data/Local/Spn/Dialog.bmd 2393c2df 204800
 Data/Local/Spn/GlobalText.bmd c87aa212 1414
-Data/Local/Spn/Item.bmd 67f61705 188444
+Data/Local/Spn/Item.bmd a7962785 188444
 Data/Local/Spn/ItemLevelTooltip.bmd c19ddbea 13060
 Data/Local/Spn/ItemSetOption.bmd 06ac596d 30212
 Data/Local/Spn/ItemTooltip.bmd cdd9d317 1015812
