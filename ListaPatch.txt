@@ -57,7 +57,7 @@ Data/Local/NPCDialogue.bmd b7f05259 5104
 Data/Local/pet.bmd 028c5ef7 2512
 Data/Local/QuestProgress.bmd 52cbbe0e 32841
 Data/Local/RenderMesh.bmd 24521a8a 272
-Data/Local/ServerList.bmd 0bf96bd0 165
+Data/Local/ServerList.bmd 54068eea 165
 Data/Local/webzenlogo.ozj 3dedd813 51388
 Data/Local/Chs/BuffEffect.bmd dc13390a 24972
 Data/Local/Chs/Dialog.bmd 2393c2df 204800
