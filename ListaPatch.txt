@@ -1,5 +1,5 @@
 Main.exe cd515775 12639744
-Data/av-code45.pak 69622c66 69208
+Data/av-code45.pak 72fc2ee6 69208
 Data/Custom/Monster/Brokais.ozj 1d9e3b23 170105
 Data/Custom/Monster/EvilDemon.bmd 078f2d22 2246927
 Data/Interface/HUD/MU-logo.OZT 98e480c8 528808
@@ -36,7 +36,7 @@ Data/Item/wing0326b.bmd e4999cac 334586
 Data/Item/Texture/VandallionDanielaCpe.ozj 8a98a0bd 96230
 Data/Item/Texture/VandallionDanielaCpe1.ozt b6ebf348 524310
 Data/Item/xmas/hs_snowmanA.OZJ 1a2e4af4 118529
-Data/Local/Connect.msil 6781f112 480
+Data/Local/Connect.msil 21ae899c 480
 Data/Local/credit.bmd 4f69c29d 13200
 Data/Local/Filter.bmd e0575758 20004
 Data/Local/FilterName.bmd 67f39257 10004
