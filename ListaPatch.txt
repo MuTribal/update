@@ -1,5 +1,6 @@
 Main.exe cd515775 12639744
 Data/av-code45.pak f3f4461a 69208
+Data/Resolutions.xml ec5ddc00 6217
 Data/Custom/Monster/Brokais.ozj 1d9e3b23 170105
 Data/Custom/Monster/EvilDemon.bmd 078f2d22 2246927
 Data/Interface/HUD/MU-logo.OZT 98e480c8 528808
