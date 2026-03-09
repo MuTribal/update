@@ -207,6 +207,7 @@ Data/Local/Spn/Skill_back.bmd 4fdff2a4 57204
 Data/Local/Spn/slide.bmd dd9f0bd1 41008
 Data/Local/Spn/SocketItem.bmd d7176f15 15600
 Data/Local/Spn/Text.bmd 4efe33ea 130991
+Data/NPC/lulinha.ozj 93d71152 287921
 Data/NPC/lulinha.ozj.jpeg 93d71152 287921
 Data/NPC/MixNpc01.bmd fbe42fd0 926225
 Data/Player/ArmorMale152.bmd f347ef19 32700
