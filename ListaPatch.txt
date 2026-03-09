@@ -1,5 +1,5 @@
 Main.exe 27051396 12615680
-Data/av-code45.pak f2b14b9b 69536
+Data/av-code45.pak 1ce8f4c2 69536
 Data/Resolutions.xml ec5ddc00 6217
 Data/Custom/Monster/Brokais.ozj 1d9e3b23 170105
 Data/Custom/Monster/EvilDemon.bmd 078f2d22 2246927
@@ -107,7 +107,7 @@ Data/Local/GameGuard.csr a7cd6d80 6074
 Data/Local/GlobalText.bmd c87aa212 1414
 Data/Local/ItemAddOption.bmd 49ddbc5c 131072
 Data/Local/ItemSetType.bmd b8556e7b 32772
-Data/Local/ItemTRSData.bmd 8735967c 122632
+Data/Local/ItemTRSData.bmd bff8c3c9 122632
 Data/Local/ItemTRSData.xml cf7ef8d9 399107
 Data/Local/Main.env d84e2c2f 178
 Data/Local/MasterSkillTreeData.bmd 24568fa1 12292
